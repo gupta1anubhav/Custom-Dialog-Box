@@ -1,4 +1,4 @@
-# CustomDialogBox [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]() [![](https://jitpack.io/v/gupta1anubhav/Custom-Dialog-Box.svg)](https://jitpack.io/#gupta1anubhav/Custom-Dialog-Box) [![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# CustomDialogBox [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]() [![](https://jitpack.io/v/gupta1anubhav/Custom-Dialog-Box.svg)](https://jitpack.io/#gupta1anubhav/Custom-Dialog-Box) [![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 Simple and easy Android Dialog by gupta1anubhav
 
@@ -6,7 +6,7 @@ Simple and easy Android Dialog by gupta1anubhav
 
 ---
 # Sample.apk
-You can download the latest sample APK from this repo here: https://github.com/gupta1anubhav/CustomDialog/blob/master/sample/sample.apk
+You can download the latest sample APK from this repo here: https://github.com/gupta1anubhav/Custom-Dialog-Box/blob/master/sample/sample.apk
 
 ---
 ### Import to your project
