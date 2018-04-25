@@ -3,11 +3,10 @@
 
 Simple and easy Android Dialog by gupta1anubhav
 
-![Sample Video](![screenrecorder-2018-04-25-23-47-34-556](https://user-images.githubusercontent.com/31107831/39265359-b2df5d30-48e4-11e8-8aea-74a77bce5111.gif)
-)
+![Sample Video](https://thumbs.gfycat.com/PowerlessTameCassowary-size_restricted.gif)
 
 ---
-# Sample .apk
+# Sample.apk
 You can download the latest sample APK from this repo here: https://github.com/gupta1anubhav/CustomDialog/blob/master/sample/sample.apk
 
 ---
