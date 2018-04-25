@@ -1,5 +1,4 @@
-# CustomDialogBox [![Platform](https://img.shields.io/badge/Platform-Android-green.svg) ]() [![](https://jitpack.io/v/gupta1anubhav/Custom-Dialog-Box.svg)](https://jitpack.io/#gupta1anubhav/Custom-Dialog-Box) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/gupta1anubhav/SimpleDialog.svg?branch=master)](https://travis-ci.org/gupta1anubhav/SimpleDialog)
+# CustomDialogBox [![Platform](https://img.shields.io/badge/Platform-Android-green.svg) ]() [![](https://jitpack.io/v/gupta1anubhav/Custom-Dialog-Box.svg)](https://jitpack.io/#gupta1anubhav/Custom-Dialog-Box) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Build Status]https://img.shields.io/teamcity/codebetter/bt428.svg]
 
 Simple and easy Android Dialog by gupta1anubhav
 
