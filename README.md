@@ -1,6 +1,6 @@
 # CustomDialogBox [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]() [![](https://jitpack.io/v/gupta1anubhav/Custom-Dialog-Box.svg)](https://jitpack.io/#gupta1anubhav/Custom-Dialog-Box) [![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-Simple and easy Android Dialog by gupta1anubhav
+Simple and easy Android Custom Dialogs 
 
 ![Sample Video](https://thumbs.gfycat.com/PowerlessTameCassowary-size_restricted.gif)
 
@@ -10,12 +10,22 @@ You can download the latest sample APK from this repo here: https://github.com/g
 
 ---
 ### Import to your project
-add below code in `build.gradle (Module: app)`
+
+
+Add JitPack to your repositories in build.gradle (Module:Project):
 ```gradle
-dependencies {
-  // ... other dependencies here
+allprojects{
+   repositories {
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+} 
+```   
+    
+and add the library to your dependencies in build.gradle (Module: app):
+
+```
     implementation 'com.github.gupta1anubhav:Custom-Dialog-Box:v1.0'
-}
 ```
 ---
 
