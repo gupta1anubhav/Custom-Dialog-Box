@@ -11,6 +11,9 @@ You can download the latest sample APK from this repo here: https://github.com/g
 ---
 ### Import to your project
 
+The Gradle dependency is available via jitpack.
+
+The minimum API level supported by this library is API 14, Android 4.0 (ICE_CREAM_SANDWICH)
 
 Add JitPack to your repositories in build.gradle (Module:Project):
 ```gradle
@@ -62,8 +65,6 @@ new CustomDialog.Builder(thisActivity)
 
 ### CustomDialogBox - Progress
 
-###### [Want to make custom GIF?](https://loading.io/)
-(Don't forget to save it in `res/raw`)
 ```java
 new CustomDialog.Builder(thisActivity)
           .setContent("This is progress CustomDialog :)", 7)
